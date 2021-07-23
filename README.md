@@ -11,8 +11,8 @@ export default () => ({
   },
   technologies: {
     backend: {
-      php: ['yii', 'yii2', 'laravel'],
-      databases: ['mysql', 'couchbase', 'mongodb'],
+      Ruby: ['rails',],
+      databases: ['mysql', 'postgresql'],
     },
     frontend: {
       js: ['jquery'],
